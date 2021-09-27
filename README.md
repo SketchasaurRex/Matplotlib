@@ -1,5 +1,5 @@
 # Matplotlib
-Module 6 Challenge
+Module 5 Challenge
 
 
 
@@ -22,6 +22,6 @@ average fare per ride and driver,
 and total fare by city type. (7 pt)
 
 
-##Analysis Summary
+## Analysis Summary
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
